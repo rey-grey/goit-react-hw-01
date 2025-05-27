@@ -1,0 +1,31 @@
+.transactionHistory {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 16px;
+}
+
+.tableHead {
+    background-color: #555;
+    color: white;
+}
+
+.tableHead th {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.rowEven {
+    background-color: #ffffff;
+}
+
+.rowOdd {
+    background-color: #f0f0f0;
+}
+
+tr td {
+    padding: 8px;
+    border: 1px solid #ccc; 
+color: black; 
+}
+
